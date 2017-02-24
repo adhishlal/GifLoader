@@ -27,10 +27,10 @@ Next, go to your XML file wherever you want to show the GIF file along with the 
 ```
         <lal.adhish.gifprogressbar.GifView
             android:id="@+id/progressBar"
-            android:layout_width="@dimen/_50sdp"
+            android:layout_width="@dimen/_50dp"
             android:layout_centerInParent="true"
             android:layout_margin="@dimen/_5sdp"
-            android:layout_height="@dimen/_50sdp"
+            android:layout_height="@dimen/_50dp"
             android:layout_gravity="center" />
 ```
 Once this is done, open your Java class where you are inflating the above widget’s layout and initialise this as shown below and also set the GIF image resource which you want to show:
