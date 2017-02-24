@@ -28,11 +28,8 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.1.1'
     testCompile 'junit:junit:4.12'
+
+    apply plugin: 'com.android.library'
+    apply plugin: 'com.github.dcendents.android-maven'
+    group='com.github.adhishlal'
 }
-apply plugin: 'com.android.library'
-
-// Required plugin in library module
-apply plugin: 'com.github.dcendents.android-maven'
-
-// Replace adhishlal with <your_github_username>
-group='com.github.adhishlal'
