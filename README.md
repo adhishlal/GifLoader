@@ -48,3 +48,5 @@ Just compile and run your code.:thumbsup:
 [![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)](https://github.com/adhishlal/GifLoader) 
 [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/adhishlal/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/er_adhish)
+
+#### Liked the work? [Buy me a cup of coffee] (https://www.paypal.me/AdhishLal) :coffee:
